@@ -1,5 +1,5 @@
 # app-dev
-My first repository
+My first repositories
 My favourite movies/series are the following: 
 **One Piece**
 **Slam Dunk**
